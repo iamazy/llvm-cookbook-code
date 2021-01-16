@@ -6,5 +6,13 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+# build command
+# LLVM_SYS_110_PREFIX=/usr/local/Cellar/llvm/11.0.0_1 cargo build
+
+# LLVM_SYS_110_PREFIX=/usr/local/Cellar/llvm/11.0.0_1 cargo run --bin kaleido
+[[bin]]
+name = "kaleido"
+path = "src/bin/kaleidoscope.rs"
+
 [dependencies]
-inkwell = { git = "https://github.com/TheDan64/inkwell", branch = "master", features = ["llvm9-0"] }
+inkwell = { git = "https://github.com/TheDan64/inkwell", branch = "master", features = ["llvm11-0"] }
