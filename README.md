@@ -2,6 +2,7 @@
  
 ### Projects
 [cranelift](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)  
+[cranelift-jit-demo](https://github.com/bytecodealliance/cranelift-jit-demo)
 [inkwell](https://github.com/TheDan64/inkwell)  
 [bfc](https://github.com/Wilfred/bfc)  
 [compiler_series](https://github.com/bisqwit/compiler_series)  
