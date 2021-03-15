@@ -10,3 +10,4 @@
 [build your own lisp](http://www.buildyourownlisp.com/)  
 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex)  
 [awesome-compilers](http://aalhour.com/awesome-compilers/)  
+[用Rust编写LLVM的玩具前端](https://github.com/fucking-translation/blog/blob/main/lang/rust/02-%E7%94%A8Rust%E7%BC%96%E5%86%99LLVM%E7%9A%84%E7%8E%A9%E5%85%B7%E5%89%8D%E7%AB%AF.md)  
